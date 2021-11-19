@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "title": "Titulo notícia 1",
+            "text": "texto 1",
+            "image": "https://p2.trrsf.com/image/fget/cf/648/0/images.terra.com/2021/11/18/1896350505-5e8f963f77cdc.jpeg"
+        },
+        {
+            "title": "Titulo notícia 2",
+            "text": "texto 2",
+            "image": "https://p2.trrsf.com/image/fget/cf/648/0/images.terra.com/2021/11/18/49164407081_ddc847cc65_5k.jpg"
+        }
+    ]
+}
